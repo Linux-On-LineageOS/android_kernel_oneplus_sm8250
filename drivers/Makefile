@@ -194,3 +194,4 @@ obj-$(CONFIG_GNSS)		+= gnss/
 obj-$(CONFIG_SENSORS_SSC)	+= sensors/
 obj-$(CONFIG_SENSORS_SIMULATED_HALL)	+= sensors/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
